@@ -1,0 +1,3 @@
+from .competitors_seed import COMPETITORS_METADATA, SEED_EVENTS
+
+__all__ = ["COMPETITORS_METADATA", "SEED_EVENTS"]
